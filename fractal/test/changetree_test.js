@@ -1,7 +1,7 @@
 var chai = require('chai')
 var expect = chai.expectcd ..cd
 
-var Fractal = require('../diyfractal/fractal/Changetree')
+var Fractal = require('../Changetree')
 
 describe('changeTree', function() {
   describe('prints a new tree with the correct attributes', function() {

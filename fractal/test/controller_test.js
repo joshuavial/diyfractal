@@ -1,7 +1,7 @@
 var chai = require('chai')
 var expect = chai.expect
 
-var Controller = require('../diyfractal/fractal/controller')
+var Controller = require('../controller')
 
 describe('Controller', function() {
   describe('runs the fractal the correct number of times', function() {
